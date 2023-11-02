@@ -23,6 +23,6 @@ A Project Tracker App that will allow users to keep a list of projects in order 
 - Bootstrap
 
 
-Deployed Site: 
+Deployed Site: https://batking74.github.io/Project-Tracker/
 
-GitHub Repository: 
+GitHub Repository: https://github.com/Batking74/Project-Tracker/edit/main/README.md
