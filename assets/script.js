@@ -41,6 +41,7 @@ function printProjectData() {
   for (var i = 0; i < projects.length; i += 1) {
     var project = projects[i];
     var projectDate = dayjs(project.date);
+
     // get date/time for start of today
     var today = dayjs().startOf('day');
 
@@ -75,6 +76,7 @@ function printProjectData() {
 function handleDeleteProject() {
   var projectIndex = parseInt($(this).attr('data-index'));
   var projects = readProjectsFromStorage();
+  
   // remove project from the array
   projects.splice(projectIndex, 1);
   saveProjectsToStorage(projects);
