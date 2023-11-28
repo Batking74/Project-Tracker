@@ -1,7 +1,7 @@
 # Project Tracker
 
 ### Description
-A Project Tracker App that will allow users to keep a list of projects in order to stay organized and their due dates so users wont miss any important dates!
+The Project Tracker App is a tool designed to help users stay organized by maintaining a list of projects and their respective due dates. Its primary purpose is to prevent users from missing any crucial deadlines, fostering efficient project management.
 
 ![Image of Nazirs Project Tracker App](./assets/Project-Tracker-Project.png)
 
